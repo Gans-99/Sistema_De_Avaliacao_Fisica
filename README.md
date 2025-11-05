@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Sistema de Avaliação Física - Academia Brooklyn Total Body
 
-Trabalho desenvolvido para a disciplina **Estrutura de Dados**, com o objetivo de implementar um **sistema CRUD completo utilizando TAD de Árvore Binária**.
+Projeto desenvolvido para a disciplina **Estrutura de Dados**, com o objetivo de implementar um **sistema CRUD completo utilizando TAD de Árvore Binária**.
 O sistema simula o cadastro e gerenciamento de alunos de uma academia, armazenando informações pessoais e físicas para cálculo do **IMC (Índice de Massa Corporal)**.
 
 ---
