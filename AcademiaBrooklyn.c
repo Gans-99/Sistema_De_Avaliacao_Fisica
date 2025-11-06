@@ -1,11 +1,3 @@
-/* 
-                        2º TRABALHO DE ESTRUTURA DE DADOS  
-            CRIAÇÃO DE UMA C.R.U.D. UTILIZANDO A TAD ÁRVORE BINÁRIA
-EQUIPE: Mahatma Gandhi, Ciro Coimbra, Alexsandro Martins, Jeiel Lucas e Rogério Pio
-*/
-
-/*          Sistema de Avaliação Física - Academia Brooklyn Total Body            */
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
@@ -330,5 +322,6 @@ int main(){
 
     return 0;
 }
+
 
 
